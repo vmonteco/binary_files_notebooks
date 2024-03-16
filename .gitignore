@@ -3,3 +3,7 @@
 \#*\#
 __pycache__/
 *.pyc
+code/
+!code/.gitkeep
+binary_files/
+!binary_files/.gitkeep
